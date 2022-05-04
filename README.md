@@ -1,3 +1,17 @@
+****Author:
+🏆 SUBHAM RATHOD 🚀
+🏆 Linktree: https://movieapp-created-by-shubham-1503.netlify.ap
+
+**About**:
+This Project was Made by Shubham Rathod in Collaboration with Newton School.
+
+This project was bootstrapped with Create React App.
+
+
+Summary:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
